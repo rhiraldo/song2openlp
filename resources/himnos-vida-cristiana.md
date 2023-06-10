@@ -51,7 +51,7 @@ Y al Espíritu Divino
 Alabanzas de loor.
 
 ```
-CORO ¡Adoradle, Adoradle,
+¡Adoradle, Adoradle,
 Adorad al Salvador!
 Tributadle toda gloria,
 Pueblo suyo por su grande amor.
@@ -64,20 +64,18 @@ Libre por su grande amor.
 Huestes libres del Señor;
 Tierra, cielos, mar y luna,
 Gloria dan al Trino Dios.
-
-```
-ULTIMO CORO Yo te adoro, yo te adoro,
+4. Yo te adoro, yo te adoro,
 Yo te adoro, buen Jesús.
 Yo te adoro reverente,
 ¡Oh, Cordero santo de mi Dios!
-```
+
 # 4 Te Loamos, Oh Dios
 
 1. Te loamos, oh Dios, con unánime voz,
 Porque en Cristo, tu Hijo, nos diste perdón.
 
 ```
-CORO ¡Aleluya! Te alabamos.
+¡Aleluya! Te alabamos.
 ¡Cuán grande es tu amor!
 ¡Aleluya! Te adoramos,
 Bendito Señor.
@@ -165,7 +163,7 @@ Al Rey Soberano, el Buen Salvador;
 Dignísimo es El del más alto honor.
 
 ```
-CORO Alabad, alabad, alabad al gran Rey,
+Alabad, alabad, alabad al gran Rey,
 Adorad, adorad, adoradle su grey.
 Es nuestro Escudo, Baluarte y Sostén,
 El Omnipotente por siglos. Amén.
@@ -189,7 +187,7 @@ A su eterna gloria os ha de llevar.
 Te adoran con fervor, oh Trino, Santo Dios.
 
 ```
-CORO En tu mansión yo Te veré,
+En tu mansión yo Te veré,
 De Ti perdón feliz tendré.
 ```
 2. Tu mano paternal marcó mi senda aquí;
@@ -299,7 +297,7 @@ Al oír tu voz en los potentes truenos
 Y ver brillar al sol en su cenit,
 
 ```
-CORO Mi corazón se llena de emoción:
+Mi corazón se llena de emoción:
 ¡Cuán grande es El! ¡Cuán grande es El!
 Mi corazón se llena de emoción:
 ¡Cuán grande es El! ¡Cuán grande es El!
@@ -344,7 +342,7 @@ Honor y gloria, luz y dominio,
 Tributaremos todos a Ti.
 
 ```
-CORO ¡Santo, santo, eres Tú, Señor
+¡Santo, santo, eres Tú, Señor
 ¡Dios de las batallas, Glorioso!
 ```
 2. Alabadle cielos, tierra y mar,
@@ -369,7 +367,7 @@ Pues El por mí murió en la cruz,
 ¡Santo y bendito Nombre!
 
 ```
-CORO ¡Nombre sin comparación,
+¡Nombre sin comparación,
 Fuente de gran bendición,
 Tema de feliz canción,
 Jesús, sagrado Nombre!
@@ -414,7 +412,7 @@ En sempiterno gozo deseo con El vivir.
 Me libra del quebranto y con amor me guía.
 
 ```
-CORO Ensalce nuestro canto
+Ensalce nuestro canto
 Tu sacrosanta historia;
 Es nuestro anhelo santo
 Mirar, Jesús, tu gloria.
@@ -434,7 +432,7 @@ Mil veces tenga que pronunciar
 Tu santo Nombre sin par.
 
 ```
-CORO Jesús, Jesús, conmigo sé,
+Jesús, Jesús, conmigo sé,
 En sol o en sombra adorote;
 Deseo un solo galardón,
 Tu dulce aprobación.
@@ -583,7 +581,7 @@ Pueden dar consolación.
 
 
 ```
-CORO Solo Cristo satisface
+Solo Cristo satisface
 Mi transido corazón;
 Es el Lirio de los Valles
 Y la Rosa de Sarón.
@@ -644,7 +642,7 @@ Desde el alto cielo baja el Salvador
 Para beneficio del mortal.
 
 ```
-CORO ¡Gloria! ¡Gloria sea a nuestro Dios!
+¡Gloria! ¡Gloria sea a nuestro Dios!
 ¡Gloria! Sí, cantemos a una voz.
 Y el cantar de gloria, que se oyó en Belén,
 Sea nuestro cántico también.
@@ -727,7 +725,7 @@ A Jesús, que es nuestro bien,
 Con el coro de Belén;
 
 ```
-CORO Canta la celeste voz:
+Canta la celeste voz:
 “¡En los cielos, gloria a Dios!”
 ```
 2. El Señor de los señores,
@@ -897,7 +895,7 @@ Mas a Ti no fue dado el entrar al mesón,
 Y en pesebre Te hicieron nacer.
 
 ```
-CORO Ven a mi corazón, oh Cristo,
+Ven a mi corazón, oh Cristo,
 Pues en él hay lugar para Ti.
 Ven a mi corazón, oh Cristo, ven;
 Pues en él hay lugar para Ti.
@@ -926,7 +924,7 @@ Aún indigno y vil como soy;
 Soy feliz, pues su sangre vertió mi Jesús,
 Y con ella mis culpas borró.
 
-CORO Mis pecados llevó en la cruz, do murió
+Mis pecados llevó en la cruz, do murió
 El sublime, el tierno Jesús.
 Los desprecios sufrió, y mi alma salvó,
 El cambió mis tinieblas en luz.
@@ -953,7 +951,7 @@ El que abrió por mí Jesús,
 En la vergonzosa cruz.
 
 ```
-CORO Sí, fue por mí, sí, fue por mí,
+Sí, fue por mí, sí, fue por mí,
 Fue por mí murió Jesús
 En la vergonzosa cruz.
 ```
@@ -983,7 +981,7 @@ No me permitas olvidar
 Tu obra en la cruenta cruz.
 
 ```
-CORO Si olvido del Getsemani,
+Si olvido del Getsemani,
 Tu sufrimiento agudo allí,
 Y tu divino amor por mí,
 Cristo, hazme ver tu cruz.
@@ -1069,7 +1067,7 @@ El Salvador Jesús.
 
 
 ```
-CORO Fielmente nos amó Jesús,
+Fielmente nos amó Jesús,
 Pues hay que amarle fiel,
 Y en su salud y amor confiar
 Y hacer las obras de El.
@@ -1162,7 +1160,7 @@ Por mí muriendo en la cruz,
 Por mí, tan vil, indigno.
 
 ```
-CORO De amor la prueba hela aquí:
+De amor la prueba hela aquí:
 El Salvador murió por mí.
 Por mí, por mí, Jesús murió por mí.
 ```
@@ -1322,7 +1320,7 @@ Que Tú derramaste por salvarme a mí.
 El alba allí esperó Cristo el Señor.
 
 ```
-CORO Cristo la tumba venció,
+Cristo la tumba venció,
 Y con gran poder resucitó;
 De sepulcro y muerte Cristo es vencedor,
 Vive para siempre nuestro Salvador;
@@ -1362,7 +1360,7 @@ Su poder y gran virtud cautivó la esclavitud.
 Redimido soy por El, ¡Aleluya!
 
 ```
-CORO ¡Aleluya, salvo soy!
+¡Aleluya, salvo soy!
 Redimido soy por El;
 Su poder y gran virtud
 Cautivó la esclavitud,
@@ -1458,12 +1456,12 @@ Aunque otros lo negaren yo sé que El vive ya.
 Su mano tierna veo, su voz consuelo da,
 Y cuando yo le llamo muy cerca está.
 
-CORO
+```
 El vive, El vive, hoy vive el Salvador;
 Conmigo está y me guardará mi amante Redentor.
 El vive, El vive, me imparte salvación;
 Sé que El viviendo está porque vive en mi corazón.
-
+```
 
 2. En todo el mundo entero contemplo yo su amor,
 Y al sentirme triste consuélame el Señor;
@@ -1505,7 +1503,7 @@ Yo sé que El siempre me recibe.
 Con gracia y fuerza me guiará.
 
 ```
-CORO Yo sé, yo sé que Cristo vive
+Yo sé, yo sé que Cristo vive
 Y en la tierra reinará.
 Yo sé, yo sé que El me recibe
 Y por su amor me salvará.
@@ -1585,7 +1583,7 @@ Para abrir el libro nadie se encontró:
 El fue solo digno: ¡Cante nuestra voz!
 
 ```
-CORO A Jesús loor, a Jesús loor,
+A Jesús loor, a Jesús loor,
 A Jesús loor, porque El es digno,
 A Jesús loor, a Jesús loor,
 A Jesús loor, porque El es digno.
@@ -1609,7 +1607,7 @@ De la guerra vuelve invicto,
 Todos deben darle loor.
 
 ```
-CORO Coronadlo, santos todos,
+Coronadlo, santos todos,
 Coronadlo Rey de reyes;
 Coronadlo, santos todos;
 Coronad al Salvador.
@@ -1665,7 +1663,7 @@ Que al mundo ya resplandeciente de gloria,
 Regrese el Señor Jesús.
 
 ```
-CORO ¿Cuándo, oh buen Salvador,
+¿Cuándo, oh buen Salvador,
 Cantamos tu eterno loor?
 ¡Aleluya! Cristo viene,
 ¡Aleluya! Amén. ¡Aleluya! Amén.
@@ -1729,7 +1727,7 @@ Cristo vendrá, nuestro Rey vencedor,
 Cristo vendrá otra vez.
 
 ```
-CORO Viene otra vez, viene otra vez,
+Viene otra vez, viene otra vez,
 En gloria viene al mundo otra vez;
 Viene otra vez, viene otra vez,
 El viene pronto a reinar.
@@ -1762,7 +1760,7 @@ Ya de Cristo es el reinado
 Y el pecado quitará.
 
 ```
-CORO “Ven, Señor Jesús, ven pronto,”
+“Ven, Señor Jesús, ven pronto,”
 Claman todos con ardor.
 “He aquí, Yo vengo presto,
 Presto,” dice el Salvador.
@@ -1792,7 +1790,7 @@ Cuando Cristo venga al mundo y nos arrebatará,
 Oh, que gozo el pensamiento a mi corazón me da,
 Que Jesús vendrá al mundo otra vez.
 
-CORO ¡Oh, Jesús vendrá al mundo otra vez!
+¡Oh, Jesús vendrá al mundo otra vez!
 Sí, Jesús vendrá al mundo otra vez;
 Satanás será atado, años mil habrá de paz,
 Cuando Cristo venga al mundo otra vez.
@@ -1835,7 +1833,7 @@ Toda tristeza su fin tendrá,
 Un alba hermosa Cristo vendrá.
 
 ```
-CORO Un alba hermosa Cristo Jesús
+Un alba hermosa Cristo Jesús
 En gloria viene del cielo azul;
 Viene triunfante al mundo aquí
 Un alba hermosa por ti y por mí.
@@ -1860,7 +1858,7 @@ Llenas tened las lámparas siempre,
 A su encuentro id con amor.
 
 ```
-CORO Cristo ya viene, pronto sí, viene,
+Cristo ya viene, pronto sí, viene,
 Sin tardanza aparecerá,
 Con El iremos ¡Aleluya!
 A la mansión que El nos dará.
@@ -1890,7 +1888,7 @@ Un día que el mal imperaba más cruel
 Jesús descendió, y al nacer de una virgen,
 Nos dio por su vida un ejemplo tan fiel.
 
-CORO Vivo, me amaba; muerto, salvóme;
+Vivo, me amaba; muerto, salvóme;
 Y en el sepulcro mi mal enterró;
 Resucitado, El es mi justicia;
 Un día El viene, pues lo prometió.
@@ -1953,7 +1951,7 @@ Eternamente estará con El,
 Esta esperanza hoy es cual broquel,
 ¿Oh, qué si fuera hoy?
 
-CORO ¡Gloria! ¡Gloria! Gozo tendrá su grey
+¡Gloria! ¡Gloria! Gozo tendrá su grey
 ¡Gloria! Gloria! Al coronarle Rey.
 ¡Gloria! ¡Gloria! Démosle loor y prez;
 ¡Gloria! ¡Gloria! Cristo viene otra vez.
@@ -1985,7 +1983,7 @@ Qué glorioso encuentro con mi Salvador,
 En las nubes se verá.
 
 ```
-CORO En las nubes El vendrá
+En las nubes El vendrá
 En aquel día final;
 Cristo el Salvador muy pronto volverá
 Por aquellos que El amó.
@@ -2012,7 +2010,7 @@ Solo en tu poder confiamos,
 Esperamos ya la unción.
 
 ```
-CORO Ven, Santo Espíritu,
+Ven, Santo Espíritu,
 Henos en humildad,
 Pues solo Tú nos das la santidad.
 ```
@@ -2074,9 +2072,7 @@ Doquier haya aflicción, miserias y dolor;
 Cristianos, anunciad que el Padre nos envió
 El fiel Consolador.
 
-```
-CORO
-El fiel Consolador, el fiel Consolador
+```El fiel Consolador, el fiel Consolador
 Que Dios nos prometió, al mundo descendió;
 Doquier el hombre esté decid que vino ya
 El fiel Consolador.
@@ -2104,7 +2100,7 @@ Que en nuestras vidas el mundo
 Al Salvador pueda ver.
 
 ```
-CORO ¡Sella! ¡Sella!
+¡Sella! ¡Sella!
 ¡Séllanos con tu unción!
 ¡Oh Santo Paracleto,
 Atiende a nuestra oración!
@@ -2155,7 +2151,7 @@ Con unánime fervor,
 Ciento veinte esperaban la promesa del Señor.
 
 ```
-CORO Dios manda tu gran poder,
+Dios manda tu gran poder,
 Dios manda tu gran poder,
 Dios manda tu gran poder a cada corazón.
 ```
@@ -2176,7 +2172,7 @@ Del mal me guardará;
 El, solo, con su gran poder me purificará.
 
 ```
-CORO ¡Oh, Espíritu del Señor!
+¡Oh, Espíritu del Señor!
 Ven, aguardando estoy,
 Y purifica el corazón,
 ¡Oh ven, y bautízame hoy!
@@ -2201,7 +2197,7 @@ Ven y despiértanos con tu fulgor,
 Ven, y avívanos con tu calor.
 
 ```
-CORO Venga del cielo, bendito fuego,
+Venga del cielo, bendito fuego,
 Venga, poder celestial;
 Venga del cielo, bendito fuego;
 Ven, llama pentecostal.
@@ -2223,7 +2219,7 @@ Llénalo de tu presencia,
 Y haz en él tu habitación.
 
 ```
-CORO ¡Llena hoy, llena hoy,
+¡Llena hoy, llena hoy,
 Llena hoy mi corazón!
 ¡Santo Espíritu, desciende
 Y haz en mí tu habitación!
@@ -2318,7 +2314,7 @@ Delante tu presencia confieso mi maldad;
 De todos mis pecados me redimiste Tú
 Con sangre tan preciosa vertida en la cruz.
 
-CORO Piedad, piedad, te implora un pecador.
+Piedad, piedad, te implora un pecador.
 Piedad, piedad, piedad de mí, Señor.
 
 2. Señor Omnipotente, escucha mi oración,
@@ -2388,7 +2384,7 @@ Tan solo en tu sangre limpieza tendré,
 Lavado y más blanco que nieve seré.
 
 ```
-CORO Más blanco que la nieve seré;
+Más blanco que la nieve seré;
 Lavado en tu sangre y limpio por fe.
 ```
 2. En mi alma no puede lo impuro quedar,
@@ -2403,20 +2399,15 @@ Lavado y más blanco que nieve seré.
 Que santificado por tu gracia fui;
 Tu sangre limpiándome vi por la fe,
 Lavado y más blanco que nieve quedé.
-
-```
-ÚLTIMO CORO
-Más blanco que la nieve quedé;
+5. Más blanco que la nieve quedé;
 Lavado en tu sangre, soy limpio por fe.
-```
+
 # 100 Te Necesito Ya
 
 1. Te necesito ya, bendito Salvador,
 Me infunde dulce paz tu tierna voz de amor.
 
-```
-CORO
-Te necesito, Cristo, sí, Te necesito.
+```Te necesito, Cristo, sí, Te necesito.
 Con corazón contrito acudo a Ti.
 ```
 2. Te necesito ya, Tú no me dejarás;
@@ -2450,7 +2441,7 @@ Y por la eternidad Te alabaré.
 Hijo, vela en oración y a ti todo te seré.”
 
 ```
-CORO Todo lo pagó Cristo, quien por mí
+Todo lo pagó Cristo, quien por mí
 Libremente derramó su sangre carmesí.
 ```
 2. Hallo ahora, Salvador, que solo tu poder
@@ -2498,7 +2489,7 @@ Mas mis obras meritorias
 No me dieron la salud.
 
 ```
-CORO ¡Oh, qué paz Jesús me da!
+¡Oh, qué paz Jesús me da!
 Paz que antes ignoré;
 Todo nuevo se tornó,
 Desde que su paz hallé.
@@ -2525,7 +2516,7 @@ Su paz, el don de su amor.
 
 
 ```
-CORO ¡Paz, paz, dulce paz!
+¡Paz, paz, dulce paz!
 Célico don del Señor.
 La siento en mi ser más y más,
 Su paz, el don de su amor.
@@ -2551,7 +2542,7 @@ Una calma infinita que solo podrán
 Los amados de Dios comprender.
 
 ```
-CORO Paz, paz, cuán dulce paz
+Paz, paz, cuán dulce paz
 Es aquella que el Padre me da;
 Yo le ruego que inunde por siempre mi ser
 En sus ondas de amor celestial.
@@ -2578,7 +2569,7 @@ La paz, perdón que con afán
 Sin descansar buscó.
 
 ```
-CORO Ya ningún bien sin Cristo habrá:
+Ya ningún bien sin Cristo habrá:
 El solo para mí;
 Luz, gozo, paz y gran felicidad
 Se encuentran solo Cristo en Ti.
@@ -2599,10 +2590,10 @@ Fuerte y gloriosa, es eterna paz:
 Grande y perfecta, premio de la cruz;
 Fruto del Calvario, obra de Jesús.
 
-CORO
+```
 Descansando en Cristo siempre paz tendré;
 En Jehová confiando nada temeré.
-
+```
 2. En el gran refugio de la paz de Dios
 Nunca hay molestias, es perfecta paz:
 Nunca negra duda, pena ni pesar,
@@ -2615,11 +2606,7 @@ Siempre moraremos en su grande amor.
 De Ti recibimos celestial salud.
 Haznos conocerte, Te amaremos más,
 Sé Tú nuestro dueño, Príncipe de paz.
-
-
-### ULTIMO CORO
-
-Descansando en Cristo tengo siempre paz;
+5. Descansando en Cristo tengo siempre paz;
 En Jehová confiando hallo gran solaz.
 
 # 109 Salvo En Los Tiernos Brazos
@@ -2629,9 +2616,10 @@ Y en su amoroso pecho dulce reposaré.
 Este es sin duda el eco de celestial canción,
 Que de inefable gozo llena mi corazón.
 
-CORO
+```
 Salvo en los tiernos brazos de mi Jesús seré,
 Y en su amoroso pecho dulce reposaré.
+```
 
 2. Tiende Jesús los brazos, bríndame su amistad :
 A su poder me acojo, no hay para mí ansiedad.
@@ -2654,7 +2642,7 @@ Mi suerte, cualquiera que sea, diré:
 “Estoy bien, estoy bien, con mi Dios.”
 
 ```
-CORO Estoy bien, con mi Dios.
+Estoy bien, con mi Dios.
 Estoy bien, estoy bien con mi Dios.
 ```
 2. Ya venga la prueba o me tiente Satán,
@@ -2684,7 +2672,7 @@ En la vida al caminar,
 De alabanzas llena el alma
 Todo el día, sin cesar.
 
-CORO Gozo tengo yo en servir a Cristo,
+Gozo tengo yo en servir a Cristo,
 Gozo que no tiene igual.
 Cada día puedo ver que me da de su poder;
 Llena mi alma de su gozo celestial.
@@ -2767,7 +2755,7 @@ Porque en el mundo nadie como El
 Es en mi vida paciente y fiel.
 
 ```
-CORO Cristo, mi Amigo, ya tuyo soy;
+Cristo, mi Amigo, ya tuyo soy;
 ¡Todo rendido, contigo voy!
 ```
 2. Tengo un Refugio que en el turbión
@@ -2791,7 +2779,7 @@ De su misericordia, inmensa como el mar
 Y cual los cielos alta, con gozo he de cantar
 
 ```
-CORO El amor de mi Señor
+El amor de mi Señor
 Grande y dulce es más y más;
 Rico e inefable, nada es comparable
 Al amor de mi Jesús.
@@ -2820,7 +2808,7 @@ Pues El de veras sabe amar
 Al pobre pecador.
 
 ```
-CORO Yo te amo, oh mi Salvador,
+Yo te amo, oh mi Salvador,
 Más que a lo terrenal;
 Me das consuelo, paz y amor,
 Y el reino celestial.
@@ -2846,7 +2834,7 @@ Colmará de bendición tu cuitado corazón,
 ¡Es Jesús el mejor Amigo!
 
 ```
-CORO ¡Es Jesús el mejor Amigo!
+¡Es Jesús el mejor Amigo!
 ¡Es Jesús el mejor Amigo!
 El tus ruegos oirá y tu carga llevará;
 ¡Es Jesús el mejor Amigo!
@@ -2873,7 +2861,7 @@ Más de su gracia demostrar,
 Más de su salvación gozar.
 
 ```
-CORO Más dime de Cristo;
+Más dime de Cristo;
 Más de El necesito;
 Más de su amor con que me amó,
 Más de El que a mi alma rescató.
@@ -3017,7 +3005,7 @@ Y en quietud y paz con Jesús estoy
 Oyendo absorto allí su voz.
 
 ```
-CORO El conmigo está. Puedo oír su voz,
+El conmigo está. Puedo oír su voz,
 Y que suyo, dice, seré;
 Y el encanto que hallo en El allí
 Con nadie tener podré.
@@ -3043,7 +3031,7 @@ En mis angustias Cristo me ayuda,
 El de los suyos sabe cuidar.
 
 ```
-CORO Diré a Cristo, diré a Cristo,
+Diré a Cristo, diré a Cristo,
 No puedo yo mi carga llevar;
 Diré a Cristo, diré a Cristo,
 Pues El tan solo puede ayudar.
@@ -3106,7 +3094,7 @@ De pedirle a Dios
 Que El te concediera guía
 Y socorro para el día en la prueba atroz?
 
-CORO Gran consuelo y paz recibes
+Gran consuelo y paz recibes
 De tu Dios en comunión;
 En tus pruebas no te olvides de la oración.
 
@@ -3129,7 +3117,7 @@ Lo que tienes, retenedlo firme,
 Y tendrás tu galardón.
 
 ```
-CORO “Siempre orad,” nos manda Cristo
+“Siempre orad,” nos manda Cristo
 “Y velad en oración.”
 No tardará, vendrá a llevarnos
 A su celestial mansión.
@@ -3172,7 +3160,7 @@ Cristo, el gran Rey de la gloria,
 Y tiene en él su mansión.
 
 ```
-CORO Cristo divino, de Dios el Hijo,
+Cristo divino, de Dios el Hijo,
 Vive en mí. ¡Oh gloriosa historia!
 Cristo en mí, Cristo en mí,
 La esperanza viva de gloria.
@@ -3202,7 +3190,7 @@ No yo, sino El, en todo cuanto que haga;
 No yo, sino El, en todo mi pensar.
 
 ```
-CORO Quiero ser puro y vivir, Señor,
+Quiero ser puro y vivir, Señor,
 Tan solo para Ti;
 Que ya no sea yo, mas Tú,
 Viviendo ahora en mí.
@@ -3230,7 +3218,7 @@ Santo hazme por tu santificación,
 Y guíame en la senda de vida.
 
 ```
-CORO Padre eterno, guíame en la senda de vida;
+Padre eterno, guíame en la senda de vida;
 Quita Tú de mi alma lo que pasará,
 Solo dame lo que permanecerá,
 Y guíame en la senda de vida.
@@ -3278,7 +3266,7 @@ Pero te es menester alma y cuerpo traer
 Al altar, cual ofrenda a tu Rey.
 
 ```
-CORO. ¿Te has puesto en el santo altar de tu Dios?
+¿Te has puesto en el santo altar de tu Dios?
 ¿Te has entregado al Señor?
 Solo así tú tendrás su descanso y solaz,
 Y sus ricas delicias de amor.
@@ -3304,7 +3292,7 @@ Que a mis manos pueda guiar
 El impulso de tu amor.
 
 ```
-CORO. Lávame en tu sangre, Salvador,
+Lávame en tu sangre, Salvador,
 Límpiame de toda mi maldad.
 Traigo a Ti mi vida para ser, Señor,
 Tuya por la eternidad.
@@ -3335,7 +3323,7 @@ Tal es el lema de un alma rendida,
 Crucificada con Cristo el Señor.
 
 ```
-CORO. Sed como ríos de larga recorrida;
+Sed como ríos de larga recorrida;
 Corran tranquilos por todo lugar,
 Llevando aliento, llevando la vida,
 La salvación que solo Cristo puede dar.
@@ -3381,7 +3369,7 @@ Dejando atrás los vanos placeres,
 En tus pisadas quiero seguir.
 
 ```
-CORO Hazme, oh Cristo, como Tú eres,
+Hazme, oh Cristo, como Tú eres,
 Mi ser inunda con tu poder.
 Ven en tu gloria, Padre bendito.
 Tu semejanza quiero tener.
@@ -3408,7 +3396,7 @@ Para que Tú la puedas usar.
 O ¿todo daré a Ti?
 
 ```
-CORO Cristo, mi Salvador, Te diste Tú por mí;
+Cristo, mi Salvador, Te diste Tú por mí;
 Tu hogar dejaste allí, para morir por mí.
 ¿Qué te daré, Maestro? Te diste Tú por mí,
 No la mitad, mas todo mi ser, yo lo daré a Ti.
@@ -3428,7 +3416,7 @@ Yo contigo quiero andar,
 Sin vacilar, sin vacilar.
 
 ```
-CORO En tus pasos quiero seguir,
+En tus pasos quiero seguir,
 Cerca de Ti, cerca de Ti,
 Y si encuentro pruebas aquí
 Dame confianza en Ti.
@@ -3504,7 +3492,7 @@ Más celo en su obra, y amor a su verdad,
 Más consagrado a su santa voluntad.
 
 ```
-CORO Toma mi ser, lo entrego a Ti, Señor;
+Toma mi ser, lo entrego a Ti, Señor;
 Toma mi ser, es tuyo, Salvador;
 Dame, Jesús, un limpio corazón,
 Y hazme vivir contigo en comunión.
@@ -3545,7 +3533,7 @@ Humildemente yo Te pido,
 “Tu voluntad se haga en mí.”
 
 ```
-CORO Oh, dulce Bien, a Ti me entrego,
+Oh, dulce Bien, a Ti me entrego,
 Tu voluntad hoy haz en mí.
 Oh, Dios bendito, mi ser contrito,
 Consagro solamente a Ti.
@@ -3600,7 +3588,7 @@ Mas su amor, amor bendito,
 Por los siglos durará.
 
 ```
-CORO ¡Oh, qué gran misericordia!
+¡Oh, qué gran misericordia!
 ¡Oh, de amor sublime don!
 ¡Plenitud de vida eterna!
 ¡Prenda viva de perdón!
@@ -3626,7 +3614,7 @@ Cuyas aguas refrescantes
 Son de perennal valor.
 
 ```
-CORO ¡Oh, preciosa fuente sanadora!
+¡Oh, preciosa fuente sanadora!
 Para todos fluye libre;
 ¡Oh, preciosa fuente sanadora!
 ¡Gloria a Dios, me sana a mí!
@@ -3653,7 +3641,7 @@ Como habló al afligido, en su gran dolor,
 Hoy mismo nos habla el buen Salvador.
 
 ```
-CORO ¿Deseas salud? ¿Deseas salud?
+¿Deseas salud? ¿Deseas salud?
 Ven, alma que sufres, en Cristo hay virtud;
 Ved, la fuente aun fluye, remedio eficaz.
 Sumérgete en ella, y sano estarás.
@@ -3681,7 +3669,7 @@ Oíd al Médico de amor,
 Que da a los muertos vida.
 
 ```
-CORO El tiene toda potestad,
+El tiene toda potestad,
 Puede sanar tu enfermedad;
 Lleno de gracia y bondad,
 El Salvador bendito.
@@ -3707,7 +3695,7 @@ Hoy se salvan por fe sencilla
 En su eternal poder.
 
 ```
-CORO Cristo es hoy y ayer el mismo,
+Cristo es hoy y ayer el mismo,
 Para siempre es fiel;
 Todo cambia menos Cristo,
 Inmutable es El.
@@ -3801,7 +3789,7 @@ Do nada puede molestar,
 Cerca al corazón de Dios;
 
 ```
-CORO Jesús, del cielo enviado
+Jesús, del cielo enviado
 Del corazón de Dios,
 ¡Oh! Siempre cerca tennos
 Al corazón de Dios.
@@ -3825,7 +3813,7 @@ Su esperanza y castillo Jehová será,
 Y en sus alas feliz vivirá.
 
 ```
-CORO Oh, yo quiero habitar al abrigo de Dios,
+Oh, yo quiero habitar al abrigo de Dios,
 Solo allí encontraré paz y profundo amor.
 Mi delicia es con El comunión disfrutar,
 Y por siempre su nombre alabar.
@@ -3847,7 +3835,7 @@ Y mis pecados expiará
 El sacrificio de su cruz.
 
 ```
-CORO Jesús será mi protección,
+Jesús será mi protección,
 La Roca de mi salvación,
 La Roca de mi salvación.
 ```
@@ -3869,7 +3857,7 @@ Mientras luche aquí buscando yo su luz,
 Siempre en sus promesas confiaré.
 
 ```
-CORO Grandes, fieles,
+Grandes, fieles,
 Las promesas que el Señor Jesús me ha dado,
 Grandes, fieles,
 En ellas para siempre confiaré.
@@ -3890,7 +3878,7 @@ Brota allí la fuente
 Cuyas aguas de salud fluyen libremente.
 
 ```
-CORO Es la cruz de Jesús
+Es la cruz de Jesús
 Mi sublime historia,
 Hasta que en celeste luz
 Cante yo su gloria.
@@ -3915,7 +3903,7 @@ Todos los días consuelo me da,
 Cada momento conmigo El está.
 
 ```
-CORO Cada momento me guardas, Señor,
+Cada momento me guardas, Señor,
 Cada momento en gracia y amor,
 Vida abundante yo tengo en Ti,
 Cada momento Tú vives en mí.
@@ -3937,7 +3925,7 @@ Mira lo que el cielo para ti guardó,
 Cuenta las riquezas que el Señor te dio.
 
 ```
-CORO ¡Bendiciones, cuántas tienes ya
+¡Bendiciones, cuántas tienes ya
 Bendiciones, Dios te manda más;
 Bendiciones, te sorprenderás
 Cuando veas lo que Dios por ti hará.
@@ -3960,7 +3948,7 @@ Que su sostén y ayuda jamás me faltarán.
 
 
 ```
-CORO Por gracia Jesús me sostendrá,
+Por gracia Jesús me sostendrá,
 Y nunca me faltará;
 Si en sombras yo voy, y triste estoy,
 Su gracia me sostendrá.
@@ -3982,7 +3970,7 @@ En los brazos de mi Salvador;
 Oh, yo siento en mí su tierno amor.
 
 ```
-CORO Libre, salvo,
+Libre, salvo,
 Del pecado y del temor,
 Libre, salvo,
 En los brazos de mi Salvador.
@@ -4005,7 +3993,7 @@ Dilo a Cristo el Señor.
 
 
 ```
-CORO Dilo a Cristo, dilo a Cristo,
+Dilo a Cristo, dilo a Cristo,
 El es tu amigo más fiel;
 No hay otro amigo como Cristo,
 Dilo tan solo a El.
@@ -4035,7 +4023,7 @@ Vence el pecado, cuida del mal,
 Ya pertenezco a El.
 
 ```
-CORO Ya pertenezco a Cristo,
+Ya pertenezco a Cristo,
 Y El pertenece a mí;
 Es mío por la eternidad,
 Y en esta vida aquí.
@@ -4066,7 +4054,7 @@ Grande es el gozo que tengo por El,
 Es de mi senda Jesús guía fiel.
 
 ```
-CORO Oh, Salvador bendito,
+Oh, Salvador bendito,
 Me doy tan solo a Ti,
 Porque Tú en el Calvario
 Te diste allí por mí.
@@ -4121,7 +4109,7 @@ En mis aflicciones, buen Jesús, iré a Ti,
 Y consuelo y dicha me darás, oh sí.
 
 ```
-CORO Cristo, ven más cerca;
+Cristo, ven más cerca;
 Paz perfecta en mi alma pon;
 Cerca, sí, más cerca de mi corazón.
 ```
@@ -4172,7 +4160,7 @@ De su cuidado nada me aparta,
 En su poder hallé redención.
 
 ```
-CORO Todo va bien con Cristo y mi alma,
+Todo va bien con Cristo y mi alma,
 La gente en mí su faz podrá ver.
 Bajo su amparo El tierno me guarda,
 Me fortalece con su poder.
@@ -4195,7 +4183,7 @@ Y en sus sendas serle fiel!
 
 
 ```
-CORO Jesucristo, Jesucristo,
+Jesucristo, Jesucristo,
 Ya tu amor probaste en mí;
 Jesucristo, Jesucristo,
 Siempre quiero fiar en Ti.
@@ -4221,7 +4209,7 @@ Hallan las almas dulce solaz,
 Grato consuelo, felicidad.
 
 ```
-CORO Gloria cantemos al Redentor,
+Gloria cantemos al Redentor,
 Que por nosotros quiso morir;
 Y que la gracia del Salvador
 Siempre dirija nuestro vivir.
@@ -4245,7 +4233,7 @@ Y da coronas de victoria;
 A recibir la mía voy.
 
 ```
-CORO Que permanezca no pidáis
+Que permanezca no pidáis
 Entre el bullicio y el vaivén;
 El mundo alegre hoy dejara,
 Aún cuando fuese algún Edén;
@@ -4273,7 +4261,7 @@ A cada fiel Jesús dará.
 Guarda el contacto con el Salvador.
 
 ```
-CORO Guarda el contacto con el Salvador,
+Guarda el contacto con el Salvador,
 Luego las tinieblas no te cubrirán;
 Por la senda alegre tú caminarás,
 Si el contacto guardas con el Salvador.
@@ -4305,7 +4293,7 @@ Y algún día con mi Cristo
 Gozaré la claridad.
 
 ```
-CORO ¡Oh, yo quiero andar con Cristo!
+¡Oh, yo quiero andar con Cristo!
 ¡Oh, yo quiero vivir con Cristo!
 ¡Oh, yo quiero morir con Cristo!
 Quiero serle un testigo fiel.
@@ -4334,8 +4322,6 @@ En la ciudad de luz tendré tesoros, sí.
 Eterno resplandor por siempre gozaré,
 Y la vida mundana jamás desearé.
 
-
-### CORO
 
 ```
 Bendito Cristo, Tú eres siempre fiel,
@@ -4418,9 +4404,7 @@ Si Jesús dirige mi inseguro pie;
 Sin su compañía todo es turbación,
 Mas si El me guía no tendré temor.
 
-```
-CORO
-Con Jesús por doquier, sin temor iré,
+```Con Jesús por doquier, sin temor iré,
 Si Jesús me guía nada temeré.
 ```
 2. Con Jesús por guía dondequiera voy;
@@ -4446,9 +4430,7 @@ Paso a paso por la fe!
 Andando en sus mismas huellas,
 Cada día seguiré.
 
-```
-CORO
-Seguiré por la fe con Jesús andando;
+```Seguiré por la fe con Jesús andando;
 Siempre fiel yo con El quiero ir caminando.
 ```
 2. Es seguro andar con Cristo
@@ -4480,9 +4462,7 @@ Y Abrigo de la tempestad,
 Dichoso quien se esconda en Ti,
 Abrigo de la tempestad.
 
-```
-CORO
-En tierra de cansancio Jesús Roca es,
+```En tierra de cansancio Jesús Roca es,
 Jesús Roca es, Jesús Roca es;
 En tierra de cansancio Jesús Roca es,
 Y Abrigo de la tempestad.
@@ -4569,7 +4549,7 @@ Do me lleve su bondad,
 Miro ya los horizontes de una nueva claridad.
 
 ```
-CORO Hay quien vele mis pisadas
+Hay quien vele mis pisadas
 Y mi senda trazará;
 A las célicas moradas
 Es Jesús quien me guiará.
@@ -4595,7 +4575,7 @@ Al ver mi esfuerzo en serle fiel,
 Con cuanto amor me guía El.
 
 ```
-CORO Me guía El, me guía El,
+Me guía El, me guía El,
 Con cuanto amor me guía El.
 No abrigo dudas ni temor,
 Pues me conduce el buen Pastor.
@@ -4623,7 +4603,7 @@ Protege mi vida de todo temor,
 Refugio me ofrece aquí.
 
 ```
-CORO Protege mi alma de todo temor,
+Protege mi alma de todo temor,
 Me libra de toda ansiedad.
 Mis dudas quitó y yo sé que su amor
 :] Feliz protección me dará. [:
@@ -4649,7 +4629,7 @@ Lo que sufrió en Getsemaní,
 Y en el Calvario fue por mí.
 
 ```
-CORO Cristo por siempre vivirá,
+Cristo por siempre vivirá,
 Me cuidará y me guiará,
 El es mi amigo fiel, yo sé,
 Porque al Calvario por mi fue.
@@ -4709,9 +4689,7 @@ Un mensaje bello de sublime amor.
 El sin pecado fue, puro en verdad,
 Cristo el gran ejemplo es de gracia y bondad.
 
-```
-CORO
-Donde El me guíe fiel le seguiré.
+```Donde El me guíe fiel le seguiré.
 Donde El me guíe en sus huellas andaré.
 ```
 2. Dulce y tierno amor Cristo mostró;
@@ -4731,7 +4709,7 @@ A tu lado no hay temor,
 Solo hay gozo, paz, quietud.
 
 ```
-CORO Cristo, Cristo,
+Cristo, Cristo,
 No me dejes, ¡oh Señor!
 Siendo Tu mi Guía fiel,
 Seré más que vencedor.
@@ -4783,9 +4761,7 @@ En sus pastos delicados paceré;
 Descansando sin temor al abrigo del Señor,
 De las aguas de reposo beberé.
 
-```
-CORO
-El Señor me pastorea, nada aquí me faltará;
+```El Señor me pastorea, nada aquí me faltará;
 Junto a El caminaré, en su brazo confiaré,
 Nada del amor de Dios me apartará.
 ```
@@ -4825,7 +4801,7 @@ En tu lucha con las huestes del Maligno
 Con Jesús el Salvador las vencerás.
 
 ```
-CORO La victoria nos dará Jesús
+La victoria nos dará Jesús
 Pues con su poder venció en la cruz;
 En nosotros Cristo vencerá,
 ¡Aleluya! la victoria nos dará.
@@ -4855,9 +4831,7 @@ Que a la ruda lucha luego puedan ir;
 ¿Quién está dispuesto a escuchar su voz,
 Siendo voluntario listo a combatir?
 
-```
-CORO
-De Cristo voluntario tú puedes ser,
+```De Cristo voluntario tú puedes ser,
 Otros ya se alistan, hazlo tú;
 Cristo es nuestro Jefe,
 No hay por qué temer.
@@ -4888,7 +4862,7 @@ Seguid vuestra lucha constante y tenaz.
 
 
 ```
-CORO Cristo nos guía, es nuestro Jefe,
+Cristo nos guía, es nuestro Jefe,
 Y con nosotros siempre estará.
 Nada temamos, El nos alienta,
 Y a la victoria llevarnos podrá.
@@ -4937,9 +4911,7 @@ Más fácil seráte luchando triunfar;
 ¡Valor! pues, gustoso domina tu mal,
 Jesús librar puede de asalto mortal.
 
-```
-CORO
-A Jesús pronto acude, en sus brazos tu alma
+```A Jesús pronto acude, en sus brazos tu alma
 Hallará dulce calma; El te hará vencedor.
 ```
 2. Evita el pecado, procura agradar
@@ -4958,9 +4930,7 @@ Guardas del deber, somos, sí;
 Libres de maldad, ricos en bondad,
 Fieles en la lid, seremos, sí.
 
-```
-CORO
-¡Firmes! ¡Fuertes! Alcen la bandera
+```¡Firmes! ¡Fuertes! Alcen la bandera
 Grande, noble emblema del deber.
 ¡Prontos! ¡Bravos! Pasen la consigna:
 Marchen, todos, vamos a vencer.
@@ -4991,9 +4961,7 @@ Entusiasmados por fe;
 Siempre alegres cantemos
 Gloria a Dios, nuestro Rey.
 
-```
-CORO
-Ni es la carrera de los valientes,
+```Ni es la carrera de los valientes,
 Ni de los fuertes la paz,
 Mas de los fieles en Cristo
 Es el eterno solaz.
@@ -5042,9 +5010,7 @@ Sin temor alguno, que Jesús nos ve.
 Jefe soberano, Cristo al frente va,
 Y la regia enseña tremolando está.
 
-```
-CORO
-Firmes, y adelante, huestes de la fe,
+```Firmes, y adelante, huestes de la fe,
 Sin temor alguno, que Jesús nos ve.
 ```
 2. Al sagrado nombre de nuestro Adalid
@@ -5143,7 +5109,7 @@ Aun su justa causa se suele ignorar,
 Mas le seguiremos fiel.
 
 ```
-CORO “Adelante” es la orden del Señor,
+“Adelante” es la orden del Señor,
 Adelante vamos sin temor.
 “Adelante” canta ya su grey.
 La victoria es cierta con el Rey.
@@ -5167,7 +5133,7 @@ Sin desmayar seguidle siempre con valor,
 Y la victoria plena os dará.
 
 ```
-CORO ¡A la batalla, oh cristiano!
+¡A la batalla, oh cristiano!
 Con el escudo de la cruz;
 Sé buen soldado, pues a tu lado
 Está el príncipe Jesús.
@@ -5213,7 +5179,7 @@ La verdad del Evangelio, el blasón
 Del soldado de Jesús.
 
 ```
-CORO ¡Adelante! ¡Adelante,
+¡Adelante! ¡Adelante,
 En pos de nuestro Salvador!
 Nos da gozo y paz nuestro Rey,
 Adelante con valor.
@@ -5239,7 +5205,7 @@ Mas ¡cuán feliz despertaré
 En el palacio de mi Rey!
 
 ```
-CORO Yo lo veré y en dulce amor
+Yo lo veré y en dulce amor
 Iré a vivir con El allí,
 Y le diré; “Mi buen Señor,
 Por gracia yo salvado fui.”
@@ -5303,7 +5269,7 @@ Y más alto que los cielos,
 Insondable es y sin par.
 
 ```
-CORO El la puerta abriráme
+El la puerta abriráme
 Y así entrar podré.
 Redención El ha comprado
 Y perdón me da por fe.
@@ -5325,7 +5291,7 @@ El me abrió ya veraz camino,
 Al expirar por nosotros en la cruz.
 
 ```
-CORO Voy al cielo, soy peregrino,
+Voy al cielo, soy peregrino,
 A vivir eternamente con Jesús.
 ```
 2. Duelo, muerte, amarga pena,
@@ -5346,7 +5312,7 @@ Gloria eterna será para mí.
 
 
 ```
-CORO Gloria será, sí, para mí,
+Gloria será, sí, para mí,
 Sí, para mí, sí, para mí.
 Cuando en la luz yo contemple a Jesús
 Gloria será, será para mí.
@@ -5368,7 +5334,7 @@ Ningún pesar, ningún dolor,
 Que me quebrante el corazón.
 
 ```
-CORO Allí no habrá tribulación;
+Allí no habrá tribulación;
 Ningún pesar, ningún dolor,
 Y cuando esté morando allá
 Diré que no hay tribulación.
@@ -5396,7 +5362,7 @@ Y escuchemos del Señor el llamamiento
 Ya llevándonos con El a descansar.
 
 ```
-CORO Sombras, nada de sombras,
+Sombras, nada de sombras,
 Al dejar el mundo de dolor;
 Sombras, nada de sombras
 Cuando al cielo llegue vencedor.
@@ -5418,7 +5384,7 @@ Cuando todos los salvados se congreguen ante Dios,
 Entre ellos yo también tendré lugar.
 
 ```
-CORO Cuando allá se pase lista,
+Cuando allá se pase lista,
 Cuando allá se pase lista,
 Cuando allá se pase lista,
 A mi nombre yo feliz responderé.
@@ -5461,7 +5427,7 @@ Jesús, mi Señor, me prepara allí
 Un hogar, un bellísimo hogar.
 
 ```
-CORO Bello hogar, dulce hogar,
+Bello hogar, dulce hogar,
 Donde anhelo estar;
 Miro al fulgor de la patria de luz,
 Mi dulce hogar.
@@ -5484,7 +5450,7 @@ Mi alma le contemplará?
 
 
 ```
-CORO Cara a cara espero verle
+Cara a cara espero verle
 Más allá del cielo azul,
 Cara a cara en plena gloria
 He de ver a mi Jesús.
@@ -5509,13 +5475,14 @@ Cuando venga Jesús, el Salvador!
 Las naciones unidas como hermanas
 Bienvenida daremos al Señor.
 
-CORO
+```
 No habrá necesidad de la luz el resplandor,
 Ni el sol dará su luz,
 Ni tampoco su calor;
 Allí llanto no habrá, ni tristeza, ni dolor,
 Porque entonces Jesús, el Rey del cielo,
 Para siempre será Consolador.
+```
 
 2. Esperamos la mañana gloriosa
 Para dar la bienvenida al Dios de amor
@@ -5593,7 +5560,7 @@ Siempre a Cristo ensalzaremos,
 Cristo solo se verá.
 
 ```
-CORO Cristo solo, Cristo siempre,
+Cristo solo, Cristo siempre,
 Nuestro todo en todo El es;
 Salva, santifica y sana,
 Pronto viene El otra vez.
@@ -5694,7 +5661,7 @@ Fuente de Dios, de fe, de paz,
 Y gloria celestial.
 
 ```
-CORO Lámpara fiel, eres luz celestial;
+Lámpara fiel, eres luz celestial;
 Guía mis pies al hogar eternal.
 ```
 2. Pan eres tú de nuestro ser,
@@ -5760,7 +5727,7 @@ Sí, de luz y vida; son sostén y guía;
 
 
 ```
-CORO ¡Qué bellas son, qué bellas son!
+¡Qué bellas son, qué bellas son!
 Bellas palabras de vida.
 ¡Qué bellas son, qué bellas son!
 Bellas palabras de vida.
@@ -5904,7 +5871,7 @@ Y doctrinas del error;
 Me guiaban, engañado a una muerte de terror.
 
 ```
-CORO Soy salvado del abismo,
+Soy salvado del abismo,
 Con Jesús al cielo voy,
 Y confieso por bautismo
 Que del mundo ya no soy.
@@ -5930,7 +5897,7 @@ Mi Guiador, mi Fortaleza,
 Todo encuentra mi alma en Ti.
 
 ```
-CORO Yo me rindo a Ti, yo me rindo a Ti,
+Yo me rindo a Ti, yo me rindo a Ti,
 Mis flaquezas y pecados todo traigo a Ti.
 ```
 2. Te confiesa sus delitos
@@ -5961,7 +5928,7 @@ Preciso es que mi gozo en Ti
 Lo muestre hoy por obra y voz.
 
 ```
-CORO ¡Soy feliz! ¡Soy feliz!
+¡Soy feliz! ¡Soy feliz!
 Y en su favor me gozaré;
 En libertad y luz me vi
 Cuando triunfó en mí la fe.
@@ -6099,11 +6066,12 @@ O que a la luz brillante del sol abrasador;
 Si en sombra o en la luz, yo ciertamente sé
 Que si El va conmigo, doquier pronto iré.
 
-CORO
+```
 Si Jesús va conmigo yo iré por doquier,
 Conmigo si El va doquier tengo paz y gran placer;
 Con gozo yo llevo mi cruz, es mi deber;
 Si Jesús va conmigo yo iré por doquier.
+```
 
 2. Y si por los desiertos me llama a predicar
 Las nuevas que El del cielo nos vino a rescatar,
@@ -6132,7 +6100,7 @@ Pues he aquí, Yo con vosotros estaré;
 Los días todos hasta el fin os guardaré.”
 
 ```
-CORO Id, id por el mundo;
+Id, id por el mundo;
 Id, id y predicad el evangelio;
 Id, id, va adelante
 El todopoderoso Salvador.
@@ -6165,7 +6133,7 @@ Yacen, perdidos, sin un Salvador,
 Que por Jesús Dios salva al pecador?
 
 ```
-CORO “Todo poder mi Dios me dio,
+“Todo poder mi Dios me dio,
 Y ahora a mis siervos mando Yo.
 Id al mundo y proclamad el evangelio,
 Y estoy con vosotros siempre.”
@@ -6187,7 +6155,7 @@ Que el Creador no quiere que se pierda
 Una sola alma lejos de Jesús.
 
 ```
-CORO Nuevas proclamas de gozo y paz,
+Nuevas proclamas de gozo y paz,
 Nuevas de Cristo, salud y libertad.
 ```
 2. ¡Ve cuántos miles yacen retenidos
@@ -6221,7 +6189,7 @@ Miles en tinieblas, llenos de pavor,
 Piden luz, piden luz.
 
 ```
-CORO ¡Dadnos luz, la gloriosa luz
+¡Dadnos luz, la gloriosa luz
 Del perdón, de paz y amor!
 ¡Dadnos luz, la preciosa luz
 De Jesús, el Salvador!
@@ -6247,7 +6215,7 @@ Por aquellos que viven sin Dios y su amor,
 Y les quiero las nuevas decir.
 
 ```
-CORO Do me envíes, Señor,
+Do me envíes, Señor,
 Pronto iré, por doquier,
 Para que de tu amor
 Pueda oír todo ser.
@@ -6276,7 +6244,7 @@ Que quieran ir con El;
 Yo quiero serte fiel?”
 
 ```
-CORO ¡Oh! Señor, es mucha la labor,
+¡Oh! Señor, es mucha la labor,
 Y obreros faltan ya;
 Danos luz, ardiente fe y valor,
 Y obreros siempre habrá.
@@ -6302,7 +6270,7 @@ Tu Espíritu me reveló la gran necesidad.
 
 
 ```
-CORO Envía, envíame, Señor,
+Envía, envíame, Señor,
 La mies es mucha y grande la labor.
 Mas constreñido por tu amor
 Quiero servirte, buen Salvador.
@@ -6322,7 +6290,7 @@ Historia de paz y ternura,
 Historia de redención, historia de redención.
 
 ```
-CORO A la noche la aurora sigue,
+A la noche la aurora sigue,
 A la aurora el pleno sol,
 Y el reino de nuestro Dios vendrá,
 El reino de luz y amor.
@@ -6350,7 +6318,7 @@ Geo. Bennard_
 
 
 ```
-CORO Háblame, ¡Oh, háblame!
+Háblame, ¡Oh, háblame!
 Y “Heme aquí,” responderé, Señor;
 Háblame, Te diré,
 “Heme aquí, ¡Oh, envíame, Señor!”
@@ -6378,11 +6346,12 @@ Su pendón alzando, yendo a combatir?
 ¿Quién le quiere humilde siempre aquí servir,
 Siempre obedecerle, darle su existir?
 
-CORO
+```
 ¿Quien seguirle quiere? ¿Quién responderá
 Al buen Redentor, “Heme aquí, yo iré?”
 ¿Quién doquier que fuera tras su huella irá?
 ¿Quién dirá al Señor, “Yo te seguiré?”
+```
 
 2. ¿Quién seguirle quiere con profundo amor,
 Dándole la gloria, dándole el honor,
@@ -6402,7 +6371,7 @@ Llama al cordero, que en temor,
 Vaga en la densa obscuridad.
 
 ```
-CORO Llama aún, con bondad,
+Llama aún, con bondad,
 Quiere darte libertad;
 “Ven a Mí,” con amor,
 Dice Cristo el Salvador.
@@ -6428,7 +6397,7 @@ Dales consuelo que alivia el dolor,
 Torna su llanto en solaz.
 
 ```
-CORO Hazme una fuente de bendiciones,
+Hazme una fuente de bendiciones,
 Y que fulgure Cristo en mí.
 Hazme un testigo, Te ruego, Señor,
 Y un fiel obrero de mi Salvador.
@@ -6453,7 +6422,7 @@ El nos cuida y nos protege
 Con las luces de alta mar.
 
 ```
-CORO ¡Mantened el faro ardiendo!
+¡Mantened el faro ardiendo!
 ¡Arrojad su luz al mar!
 Que si hay nautas pereciendo
 Los podréis así salvar.
@@ -6479,7 +6448,7 @@ Confiando en El le diré: “Señor,
 Do Tú quieras que vaya, iré.”
 
 ```
-CORO Do Tú necesites que vaya, iré,
+Do Tú necesites que vaya, iré,
 A los valles, los montes o el mar.
 Decir lo que quieras, Señor, podré,
 Lo que quieras que sea, seré.
@@ -6511,7 +6480,7 @@ Cuida del huérfano, hazte su amigo;
 Cristo le es Padre y fiel Salvador.
 
 ```
-CORO Salva al incrédulo, mira el peligro;
+Salva al incrédulo, mira el peligro;
 Dios le perdonará, Dios le amará.
 ```
 2. Aunque recházanle, tiene paciencia
@@ -6529,7 +6498,7 @@ Con El disfrutarás la eternidad.
 Confiando en su palabra y en su amor,
 Quiero yo cantar y orar, y ocupado siempre estar
 En la viña del Señor.
-CORO Trabajar y orar,
+Trabajar y orar,
 En la viña, en la viña del Señor;
 Sí, mi anhelo es orar, y ocupado siempre estar,
 En la viña del Señor.
@@ -6581,7 +6550,7 @@ El deber que nos toca cumplido será.
 
 
 ```
-CORO ¡Trabajad! ¡Trabajad!
+¡Trabajad! ¡Trabajad!
 ¡Esperad! y ¡Velad!
 ¡Confiad! ¡Siempre orad!
 Que el Maestro pronto volverá.
@@ -6605,7 +6574,7 @@ Al que te salvó confiesa siempre,
 Todo debes a Jesús.
 
 ```
-CORO No te dé temor, no te dé temor,
+No te dé temor, no te dé temor,
 Nunca, nunca, nunca;
 Es tu amante Salvador,
 Nunca, pues, te dé temor.
@@ -6640,7 +6609,7 @@ Hay en mi alma una paz que yo ansiaba tener,
 La paz que me trajo su amor.
 
 ```
-CORO El vino a mi corazón,
+El vino a mi corazón,
 El vino a mi corazón.
 Soy feliz con la vida que Cristo me dio
 Cuando El vino a mi corazón.
@@ -6694,9 +6663,7 @@ Vino del cielo y obró redención,
 Tu vida de pecar debes de abandonar,
 Confiando en Cristo por tu salvación.
 
-```
-CORO
-¡Oh, sin igual amor! De Cristo el Salvador;
+```¡Oh, sin igual amor! De Cristo el Salvador;
 Nuestra salud compró cuando en la cruz murió.
 Pues tanto fue el amor de nuestro Redentor
 Que por nosotros su vida entregó.
@@ -6744,9 +6711,7 @@ Mi culpa El llevó, mi culpa El llevó;
 Mi eterna dicha hallé en su amor,
 Mi culpa El llevó.
 
-```
-CORO
-Mi culpa El llevó, mi culpa El llevó,
+```Mi culpa El llevó, mi culpa El llevó,
 Alegre siempre cantaré.
 Al Señor gozoso alabaré,
 Porque El me salvó.
@@ -6763,11 +6728,7 @@ Mi culpa El llevó.
 Tu culpa quitará, tu culpa quitará;
 Perdón tendrás si acudes al Señor,
 Tu culpa quitará.
-
-
-### ÚLTIMO CORO
-
-Tu culpa quitará, tu culpa quitará,
+5. Tu culpa quitará, tu culpa quitará,
 Y limpiará tu corazón;
 Y dirás feliz en tu canción:
 “Mi culpa El quitó.”
@@ -6779,9 +6740,7 @@ Si más rico tesoro puedo ir a gozar.
 En las páginas bellas de tu libro eternal,
 Dime, oh Cristo bendito, si mi nombre allí está.
 
-```
-CORO
-¡Oh, el libro precioso de tu reino eternal!
+```¡Oh, el libro precioso de tu reino eternal!
 Soy feliz para siempre si mi nombre alli está.
 ```
 2. Muchos son mis pecados, cual la arena del mar,
@@ -6801,7 +6760,7 @@ Libertado del maligno estoy
 Y de Dios por gracia salvo soy.
 
 ```
-CORO ¡Salvo soy, por Cristo mi Señor!
+¡Salvo soy, por Cristo mi Señor!
 ¡Salvo soy, me guarda en su amor!
 En cruenta cruz Jesús murió,
 La pena toda El pagó,
@@ -6826,7 +6785,7 @@ Que me dice, “Ven, a descansar,
 Tu paz conquisté en la cruz.”
 
 ```
-CORO Cristo, Cristo, Cristo,
+Cristo, Cristo, Cristo,
 Nombre sin igual;
 Llena siempre mi alma,
 De esa nota celestial.
@@ -6874,7 +6833,7 @@ Nos vio perdidos; nos socorrió;
 Aunque enemigos, nos amó.
 
 ```
-CORO El nos redime, nada tememos:
+El nos redime, nada tememos:
 ¡Verdad sublime! no la dudemos.
 Nuestra cadena Cristo rompió;
 Libres de pena nos dejó.
@@ -6896,7 +6855,7 @@ Y su paz, que ya gozando estoy
 Por siempre durará.
 
 ```
-CORO Grande gozo, ¡Cuán hermoso!
+Grande gozo, ¡Cuán hermoso!
 Paso todo el tiempo bien feliz;
 Porque veo de Cristo la sonriente faz,
 Grande gozo siento en mí.
@@ -6925,7 +6884,7 @@ Mas por su amor y su verdad
 Ya vivo en plena luz.
 
 ```
-CORO Gozo y luz hay en mi alma hoy,
+Gozo y luz hay en mi alma hoy,
 Gozo y luz hay, ya que salvo soy;
 Desde que a Jesús vi, y a su lado fui,
 He sentido el gozo de su amor en mí.
@@ -6952,7 +6911,7 @@ Ya vivo en la gloria del Señor.
 
 
 ```
-CORO Sí, viviendo estoy en la gloria,
+Sí, viviendo estoy en la gloria,
 Con mi amante Salvador;
 En lugares celestiales
 Yo viviendo estoy con el Señor.
@@ -6985,9 +6944,7 @@ Con gozo al cielo yo voy;
 Librado por gracia infinita,
 Ya sé que su hijo yo soy.
 
-```
-CORO
-Lo sé, lo sé, comprado con sangre yo soy;
+```Lo sé, lo sé, comprado con sangre yo soy;
 Lo sé, lo sé, con Cristo al cielo yo voy.
 ```
 2. Soy libre de pena y culpa,
@@ -7018,7 +6975,7 @@ Para mí dejó la gloria,
 En la cruz por mí expiró.
 
 ```
-CORO Cantaré la maravilla
+Cantaré la maravilla
 De Jesús mi Salvador;
 Con los santos en el cielo
 Cantaré con grande amor.
@@ -7043,7 +7000,7 @@ Cantar de El que me salvó, a El daré loor.
 
 
 ```
-CORO Salvado soy por El,
+Salvado soy por El,
 Salvado soy por El, canto de mi Salvador;
 Salvado soy por El,
 ¡Aleluya a mi Salvador!
@@ -7063,7 +7020,7 @@ La sangre de Cristo es mi sola esperanza,
 Su muerte tan solo me pudo salvar.
 
 ```
-CORO Me redimió, mas no con piata,
+Me redimió, mas no con piata,
 Me compró el Salvador;
 Con oro no, más con su sangre,
 Grande precio de su amor.
@@ -7089,7 +7046,7 @@ O que en el Calvario sucumbió el Salvador.
 
 
 ```
-CORO Mi alma allí divina gracia halló,
+Mi alma allí divina gracia halló,
 Dios allí perdón y paz me dio.
 Del pecado allí me libertó el Salvador.
 ```
@@ -7139,7 +7096,7 @@ Jesús nos da la salvación,
 Su vida dio por mí.
 
 ```
-CORO La fuente sin igual hallé,
+La fuente sin igual hallé,
 De vida y luz el manantial;
 ¡Oh, gloria a Dios, me limpia a mí,
 Me limpia a mí, me limpia a mí!
@@ -7167,7 +7124,7 @@ De miseria y de castigo,
 ¡Aleluya! Cristo me salvó.
 
 ```
-CORO ¡Aleluya, que su Nombre
+¡Aleluya, que su Nombre
 Puede dar salud al hombre,
 Levantarlo del pecado y la maldad!
 Cuento hoy la dulce historia,
@@ -7203,9 +7160,7 @@ Por mis pecados clamaba al Señor,
 ¡Qué maravilla, Jesús me salvó!
 ¡A su nombre gloria!
 
-```
-CORO
-¡A su nombre gloria! ¡A su nombre gloria
+```¡A su nombre gloria! ¡A su nombre gloria
 ¡Qué maravilla, Jesús me salvó!
 ¡A su nombre gloria!
 ```
@@ -7231,7 +7186,7 @@ Sin merecer tan rico don
 Recibe plena salvación.
 
 ```
-CORO ¡Oh, excelsa gracia del amor
+¡Oh, excelsa gracia del amor
 Que Dios perdona al pecador!
 Si presto está a confesar
 Sus culpas y en Jesús confiar;
@@ -7254,7 +7209,7 @@ Solo de Jesús la Sangre,
 ¿Y un nuevo corazón? solo de Jesús la Sangre.
 
 ```
-CORO Precioso es el raudal,
+Precioso es el raudal,
 Que limpia todo mal;
 No hay otro manantial,
 Solo de Jesús la Sangre.
@@ -7282,7 +7237,7 @@ Angeles con dulce voz
 “Y en las alturas gloria a Dios.”
 
 ```
-CORO Dime la historia de Cristo,
+Dime la historia de Cristo,
 Grábala en mi corazón;
 Dime la historia preciosa,
 ¡Cuán melodioso es su son!
@@ -7312,7 +7267,7 @@ Y Cristo le dijo, “Si a Dios quieres ver
 Tendrás que renacer.”
 
 ```
-CORO Tendrás que renacer,
+Tendrás que renacer,
 Tendrás que renacer,
 De cierto, de cierto te digo a ti,
 Tendrás que renacer.
@@ -7341,7 +7296,7 @@ Lo recibe el buen Jesús
 En los brazos de su amor.
 
 ```
-CORO Volveremos a cantar,
+Volveremos a cantar,
 Cristo acoge al pecador;
 Claro hacedlo resonar:
 Cristo acoge al pecador.
@@ -7368,7 +7323,7 @@ Tan solo hay poder en Jesús.
 
 
 ```
-CORO Hay poder, sí, sin igual poder
+Hay poder, sí, sin igual poder
 En Jesús quien murió;
 Hay poder, sí, sin igual poder
 En la sangre que El vertió.
@@ -7390,7 +7345,7 @@ Si acatamos su ley El será nuestro Rey,
 Y con El reinaremos allá.
 
 ```
-CORO Obedecer, cumple a nuestro deber;
+Obedecer, cumple a nuestro deber;
 Si queréis ser felices, debéis obedecer.
 ```
 2. Cuando Cristo murió nuestro llanto enjugó,
@@ -7434,7 +7389,7 @@ Y en la senda angosta caminar con El?
 Que haga en ti su voluntad.
 
 ```
-CORO Jesús te hará lo que tú debes ser,
+Jesús te hará lo que tú debes ser,
 Su sangre tu alma puede emblanquecer,
 Su amor te llenará que puedas ver
 Que gozo trae su voluntad hacer.
@@ -7459,7 +7414,7 @@ Porque es mi mente flaca y anhelo sencillez.
 
 
 ```
-CORO Dime la antigua historia,
+Dime la antigua historia,
 Cuéntame la victoria,
 Háblame de la gloria
 De Cristo y de su amor.
@@ -7493,7 +7448,7 @@ Pues sé que es la verdad;
 Y nada satisface cual ella, mi ansiedad.
 
 ```
-CORO ¡Cuán bella es esa historia!
+¡Cuán bella es esa historia!
 Mi tema allá en la gloria
 Será la antigua historia
 De Cristo y de su amor.
@@ -7521,7 +7476,7 @@ Al perdido mundo débese anunciar,
 ¡Id al Salvador Jesús!
 
 ```
-CORO Todo aquel que cree debe procurar
+Todo aquel que cree debe procurar
 Estas buenas nuevas siempre predicar;
 Que Jesús de balde quiere perdonar:
 ¡Id al Salvador Jesús!
@@ -7543,7 +7498,7 @@ El a todos llama con divino amor,
 ¿Eres salvo por la sangre de Jesús?
 
 ```
-CORO Lávame, lávame,
+Lávame, lávame,
 En tu sangre, Cordero de Dios,
 Y con alma limpia me presentaré
 Ante tu tribunal de luz.
@@ -7571,7 +7526,7 @@ Abre bien la puerta de tu corazón,
 Deja al Salvador entrar.
 
 ```
-CORO Deja al Salvador entrar,
+Deja al Salvador entrar,
 Deja al Salvador entrar,
 Abre bien la puerta de tu corazón,
 Y entrará el Salvador.
@@ -7592,9 +7547,7 @@ Mostréle mi dolor;
 Perdido, errante, vi su luz,
 Bendíjome en su amor.
 
-```
-CORO
-Fue en la cruz, en la cruz, do primero vi la luz,
+```Fue en la cruz, en la cruz, do primero vi la luz,
 Y las manchas de mi alma yo lavé;
 Fue allí por fe do vi a Jesús,
 Y siempre feliz con El seré.
@@ -7623,7 +7576,7 @@ En su santo Libro Dios nos ha hablado:
 “Solo mira a Cristo y vivirás.”
 
 ```
-CORO Mira a Cristo y vivirás;
+Mira a Cristo y vivirás;
 Mira, y vida en El tendrás.
 En su santo Libro Dios nos ha hablado:
 “Solo mira a Cristo y vivirás.”
@@ -7651,7 +7604,7 @@ Mas en las tinieblas la gloria brilló,
 ¡Jesús es la luz del mundo!
 
 ```
-CORO ¡Ven a la luz; no quieres perder
+¡Ven a la luz; no quieres perder
 Gozo perfecto al amanecer!
 Yo ciego fui, mas ya puedo ver,
 ¡Jesús es la luz del mundo!
@@ -7676,7 +7629,7 @@ Ensalzad al Redentor;
 Tributadle santos todos, grande gloria y loor.
 
 ```
-CORO Cuando estemos en gloria,
+Cuando estemos en gloria,
 En presencia de nuestro Redentor,
 A una voz la historia
 Diremos del gran Vencedor.
@@ -7704,7 +7657,7 @@ El Cordero sangre vertió:
 Me limpia solo este raudal.
 
 ```
-CORO Sé que solo así
+Sé que solo así
 Me emblanqueceré.
 Lávame en tu sangre, Jesús,
 Y nívea blancura tendré.
@@ -7758,7 +7711,7 @@ Dinos otra vez la historia de su amor;
 Dinos otra vez la historia de su amor.
 
 ```
-CORO Dinos otra vez la historia
+Dinos otra vez la historia
 Del amor del Salvador;
 Tan bendita y grata historia
 Nos hará cantar su gloria;
@@ -7791,7 +7744,7 @@ Y tu barca en grave peligro está
 Sin tener una ancla que apoyo da?
 
 ```
-CORO Ancla tenemos, que nos dará
+Ancla tenemos, que nos dará
 Apoyo firme en la tempestad,
 En la Roca eterna fija está,
 Solo allí tendremos seguridad.
@@ -7816,9 +7769,7 @@ Lluvias de gracia enviaré;
 Dones que os den fortaleza,
 Gran bendición os daré.
 
-```
-CORO
-Lluvias de gracia, lluvias pedimos, Señor;
+```Lluvias de gracia, lluvias pedimos, Señor;
 Mándanos lluvias copiosas, lluvias del Consolador.
 ```
 2. Cristo nos dio la promesa
@@ -7842,7 +7793,7 @@ Dones del Consolador.
 Del Santo Espíritu de Dios en todo nuestro ser.
 
 ```
-CORO Avívanos, Señor,
+Avívanos, Señor,
 Con nueva bendición;
 Inflama el fuego de tu amor
 En cada corazón.
@@ -7859,7 +7810,7 @@ Humillados, con fervor,
 Nuestras voces elevamos, Oh, avívanos, Señor!
 
 ```
-CORO ¡Nueva vida, nueva vida,
+¡Nueva vida, nueva vida,
 Desde lo alto, manda, oh Dios!
 ¡Nueva vida, nueva vida,
 Anhelamos oír tu voz!
@@ -7885,9 +7836,7 @@ B. D. Ackley_
 
 Tu iglesia ven a reavivar, tu fuego haz descender.
 
-```
-CORO
-Avívanos, Señor, contesta la oración;
+```Avívanos, Señor, contesta la oración;
 Tu Espíritu hazlo descender a cada corazón.
 ```
 2. Avívanos, Señor, con vida espiritual,
@@ -7906,9 +7855,7 @@ Reserved. Usado con permiso.
 Tierno Salvador.
 Muchos gozan tus mercedes, oye mi clamor.
 
-```
-CORO
-Cristo, Cristo, oye Tú mi voz.
+```Cristo, Cristo, oye Tú mi voz.
 Salvador, tu gracia dame, oye mi clamor.
 ```
 2. Ante el trono de tu gracia
@@ -7930,7 +7877,7 @@ Por ti se afana y por mí.
 
 
 ```
-CORO Venid, Venid,
+Venid, Venid,
 Si estáis cansados, venid;
 ¡Cuán dulcemente Jesús hoy nos llama!
 Oh, pecadores, venid!
@@ -7957,7 +7904,7 @@ Vuela cada día veloz, y volando da su voz:
 “Ven a dar tu cuenta a Dios:” Busca a Dios.
 
 ```
-CORO Busca a Dios, busca a Dios;
+Busca a Dios, busca a Dios;
 Entre tanto tengas tiempo, busca a Dios.
 Si te atreves a esperar,
 Dios la puerta cerrará,
@@ -7983,7 +7930,7 @@ Se oye pregunta, y ¿qué será?
 ¿Qué vas a hacer con Cristo?
 
 ```
-CORO ¿Qué vas hacer con Cristo?
+¿Qué vas hacer con Cristo?
 Neutral tú no puedes ser;
 Un día harás la pregunta,
 “¿Conmigo qué va a hacer?”
@@ -8060,7 +8007,7 @@ Invitación de puro amor.
 ¿Sordo serás, pecador?
 
 ```
-CORO Hoy te convida, hoy te convida;
+Hoy te convida, hoy te convida;
 Voz bendecida, benigna convídate hoy.
 ```
 
@@ -8081,7 +8028,7 @@ Que si tú le quisieras tener
 Al divino Señor hallarás.
 
 ```
-CORO Ven a El, ven a El,
+Ven a El, ven a El,
 Que te espera tu buen Salvador;
 Ven a El, ven a El,
 Que te espera tu buen Salvador.
@@ -8107,7 +8054,7 @@ Jesús el Señor ya está cerca,
 Y tu alma El anhela salvar.
 
 ```
-CORO Ven a Cristo, salvo siempre serás,
+Ven a Cristo, salvo siempre serás,
 Ven a Cristo, paz en tu alma tendrás.
 ```
 
@@ -8131,7 +8078,7 @@ En Cristo hay perdón;
 Oh, ven contrito y cree en El, te ofrece salvación.
 
 ```
-CORO Ven a Cristo, Ven a Cristo,
+Ven a Cristo, Ven a Cristo,
 Ven a Emmanuel;
 Y la vida, vida eterna,
 Hallarás en El.
@@ -8186,7 +8133,7 @@ Y te convida con dulce afán,
 Tierno diciendo: “Ven.”
 
 ```
-CORO Oh, ¡cuán grata nuestra reunión
+Oh, ¡cuán grata nuestra reunión
 Cuando allá, Señor, en tu mansión
 Contigo estemos en comunión
 Gozando eterno bien!
@@ -8209,7 +8156,7 @@ Si vida nueva quisieres hallar,
 Acepta el perdón de Jesús.
 
 ```
-CORO No más pecar, ven a El,
+No más pecar, ven a El,
 Su amor te muestra en la cruz;
 Es tiempo no seas infiel,
 Acepta el perdón de Jesús.
@@ -8289,7 +8236,7 @@ Que rescatados del Señor las gracias ya le dan,
 
 
 ```
-CORO Cantan: “¡Gloria, gloria,
+Cantan: “¡Gloria, gloria,
 Aleluya al Santo Dios!”
 ```
 2. ¿Cómo es que al mundo superior,
@@ -8311,7 +8258,7 @@ Están allí con el Señor, en dicha sin igual.
 Su palabra dice así;
 Niños pueden ir a El, quien es nuestro Amigo fiel.
 
-CORO Sí, Cristo me ama: sí, Cristo me ama;
+Sí, Cristo me ama: sí, Cristo me ama;
 Sí, Cristo me ama; la Biblia dice así.
 
 2. Cristo me ama, El murió,
@@ -8333,7 +8280,7 @@ Es de los niños el tierno Pastor.
 
 
 ```
-CORO Con alegría yo cantaré
+Con alegría yo cantaré
 Al Redentor, tierno Pastor,
 Que en el Calvario por mí murió,
 Sí, sí, por mí murió.
@@ -8359,7 +8306,7 @@ La puerta abrid a los niños,
 Dios les da seguridad.
 
 ```
-CORO La puerta abrid hoy con amor
+La puerta abrid hoy con amor
 La puerta abrid a los niños,
 Guiadlos al Buen Salvador.
 ```
@@ -8394,7 +8341,7 @@ Y la cruz por El llevar?
 De este mundo abandonar?
 
 ```
-CORO Oh, sí, yo quiero seguir a Jesús,
+Oh, sí, yo quiero seguir a Jesús,
 Será mi gloria llevar la cruz;
 Su luz radiante mi senda alumbrará,
 Y fiel hasta el fin mi vida a El será.
@@ -8417,7 +8364,7 @@ Cristo ha desplegado ante la nación.
 A todos en sus filas os quiere recibir,
 Y con El a la pelea os hará salir.
 
-CORO ¡Vamos a Jesús, alistados sin temor!
+¡Vamos a Jesús, alistados sin temor!
 ¡Vamos a la lid, inflamados de valor!
 Jóvenes, luchemos todos contra el mal:
 En Jesús llevamos nuestro General.
@@ -8452,7 +8399,7 @@ Siendo El joven de valor;
 Séle devoto ferviente, dale de ti lo mejor.
 
 ```
-CORO Da lo mejor al Maestro;
+Da lo mejor al Maestro;
 Tu juventud, tu vigor;
 Dale el ardor de tu alma,
 De la verdad lucha en pro.
@@ -8480,7 +8427,7 @@ Embajador yo soy del Reino celestial
 En los negocios de mi Rey.
 
 ```
-CORO Este mensaje fiel oíd,
+Este mensaje fiel oíd,
 Que dijo la celeste voz;
 “Reconciliaos ya,” dice el Señor y Rey,
 ¡Reconciliaos hoy con Dios!
@@ -8529,7 +8476,7 @@ Nuestras manos otra vez estrechamos.
 Se contenta el corazón ensanchándose de amor:
 Todos a una voz a Dios gracias damos.
 
-CORO ¡Bienvenido! ¡Bienvenido!
+¡Bienvenido! ¡Bienvenido!
 Los hermanos hoy aquí nos gozamos en decir;
 ¡Bienvenido! ¡Bienvenido!
 Al volvernos a reunir ¡Bienvenido!
@@ -8551,7 +8498,7 @@ Para dar la bienvenida
 A los siervos del Señor.
 
 ```
-CORO Bienvenidos, bienvenidos,
+Bienvenidos, bienvenidos,
 Adalides de Jehová;
 Parabienes no fingidos
 La congregación os da.
@@ -8579,7 +8526,7 @@ A la patria do estaremos
 Para siempre con el Salvador.
 
 ```
-CORO Al venir Jesús nos veremos,
+Al venir Jesús nos veremos,
 A los pies de nuestro Salvador;
 Reunidos todos seremos,
 Un redil con nuestro buen Pastor.
@@ -8605,7 +8552,7 @@ Vive amparado en su inmenso amor,
 Dios cuidará de ti.
 
 ```
-CORO Dios cuidará de ti;
+Dios cuidará de ti;
 Y por doquier contigo irá.
 Dios cuidará de ti, nada te faltará.
 ```
@@ -8628,7 +8575,7 @@ Mejorar el hogar solo buscan,
 Impetrando de Dios el poder.
 
 ```
-CORO Nuestra fe triunfará,
+Nuestra fe triunfará,
 Expresada en trabajo tenaz;
 El amor unirá
 Nuestras almas en grato solaz.
@@ -8667,7 +8614,7 @@ Tu compasión y bondad nunca fallan
 Y por los siglos el mismo serás.
 
 ```
-CORO ¡Oh, tu fidelidad! ¡Oh, tu fidelidad
+¡Oh, tu fidelidad! ¡Oh, tu fidelidad
 Cada momento la veo en mí.
 Nada me falta, pues todo provees,
 ¡Grande, Señor, es tu fidelidad!
@@ -8691,7 +8638,7 @@ Que la hace germinar,
 Calor y lluvia dando a todos por igual.
 
 ```
-CORO Cuanto bien tenemos
+Cuanto bien tenemos
 Procede del Creador.
 Su nombre load, y gracias dad
 Por su infinito amor.
@@ -8720,7 +8667,7 @@ Cuando el hombre sabe dar
 Y con creces recompensa El.
 
 ```
-CORO Cuán eterno gozo al hombre da
+Cuán eterno gozo al hombre da
 Dar sus diezmos todos a Jehová,
 Paz habrá en su corazón,
 Grande y fiel satisfacción
@@ -8828,7 +8775,7 @@ Mientras dure aquí mi vida,
 Mientras mi alma pueda amar.
 
 ```
-CORO A mi madre tan querida,
+A mi madre tan querida,
 La honraré toda la vida,
 Que mi prez sea concedida
 De poderla allá mirar.
@@ -8854,7 +8801,7 @@ Me han llevado hasta el Señor.
 Todo niño redimido su joya será.
 
 ```
-CORO Como estrellas que brillan
+Como estrellas que brillan
 Son los niños que le aman,
 Los tesoros que adornan su Rey y Señor.
 ```
@@ -8879,7 +8826,7 @@ Condescendiente es tu amor,
 Que a mí me confirió esta gloria.
 
 ```
-CORO ¡Que a este cargo sea fiel!
+¡Que a este cargo sea fiel!
 ¡Al proclamar la historia!
 Pon en mi ser tu amor,
 Y en mi andar valor.
